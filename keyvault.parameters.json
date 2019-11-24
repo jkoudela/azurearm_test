@@ -3,16 +3,16 @@
     "contentVersion": "1.0.0.0",
     "parameters": {
       "keyVaultName": {
-        "value": "GEN-UNIQUE"
+        "value": "ARMVaultJKO"
       },
       "objectId": {
-        "value": "GEN-AZUREAD-OBJECTID"
+        "value": "454f78ef-64b6-4e10-9754-b53d820cef43"
       },
       "secretName": {
-        "value": "GEN-UNIQUE"
+        "value": "JKOheslo"
       },
       "secretValue": {
-        "value": "GEN-UNIQUE"
+        "value": "Password01"
       }
     }
   }
